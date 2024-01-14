@@ -1,7 +1,12 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Automated Infrastructure Deployment on AWS with Terraform and Ansible
+tools: [Terraform, Ansible, AWS]
+image: https://github.com/dmytro108/itsynd/blob/master/week4-Ansible/task1/docs/infra.png
+description: | 
+This project demonstrates the use of Terraform and Ansible to automate the deployment of infrastructure on AWS. The infrastructure includes a VPC, EC2 instances, load balancer, and security groups. Key features include:
+- Infrastructure as code using Terraform
+- Configuration management using Ansible
+- Automated deployment and provisioning of infrastructure
+- Scalable and highly available architecture
+external_url: https://github.com/dmytro108/itsynd/tree/master/week4-Ansible/task1/README.md
 ---
