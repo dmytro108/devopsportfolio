@@ -1,7 +1,7 @@
 ---
 name: Automated Infrastructure Deployment on AWS with Terraform and Ansible
 tools: [Terraform, Ansible, AWS]
-image: https://github.com/dmytro108/itsynd/blob/master/week4-Ansible/task1/docs/infra.png
+image: assets/infra.png
 description: | 
 This project demonstrates the use of Terraform and Ansible to automate the deployment of infrastructure on AWS. The infrastructure includes a VPC, EC2 instances, load balancer, and security groups. Key features include:
 - Infrastructure as code using Terraform
