@@ -4,12 +4,15 @@ This portfolio is a collection of my DevOps projects. It showcases my skills and
 
 ## Projects
 
-1. **Automated Infrastructure Deployment with Terraform and Ansible**  
+1. [**Automated Infrastructure Deployment on AWS with Terraform and Ansible** ](https://github.com/dmytro108/itsynd/tree/master/week4-Ansible/task1)
+
 This project demonstrates the use of Terraform and Ansible to automate the deployment of infrastructure on AWS. The infrastructure includes a VPC, EC2 instances, load balancer, and security groups. Key features include:
 - Infrastructure as code using Terraform
 - Configuration management using Ansible
 - Automated deployment and provisioning of infrastructure
 - Scalable and highly available architecture
+<a class="buttons github" href="https://github.com/dmytro108/itsynd/tree/master/week4-Ansible/task1">View On GitHub</a>
+--- 
 
-[Code Repository](https://github.com/dmytro108/itsynd/tree/master/week4-Ansible/task1)
+
 
