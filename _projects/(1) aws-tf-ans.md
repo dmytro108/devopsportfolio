@@ -3,7 +3,6 @@ name: Infrastructure Deployment on AWS
 tools: [Terraform, Ansible, AWS, Django, PostgreSQL]
 image: https://portfolio.fedunets.uk/assets/infra.png
 description: This project demonstrates the use of Terraform and Ansible to automate the deployment of infrastructure on AWS.
-external_url: https://github.com/dmytro108/itsynd/tree/master/week4-Ansible/task1
 ---
 ## Project description
 As the DevOps engineer for this project, my primary task was to deploy and configure servers for a new application utilizing the DigitalOcean team's Django sample app. The project involves employing Terraform to set up the infrastructure, which includes creating a VPC with both public and private networks. Three EC2 instances were to be deployed—two for the application in the public network and one for the database in the private network. SSM agent was configured and installed on instances using Terraform. Additionally, a Load Balancer was set up to distribute traffic among the application instances. An output file in inventory format for Ansible with Terraform is required
