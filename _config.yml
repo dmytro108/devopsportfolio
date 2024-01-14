@@ -5,4 +5,4 @@ plugins:
 title: "Dmitry's Portfolio"
 description: "My personal showcase of projects and skills."
 
-show_downloads: "false"
+show_downloads: false
