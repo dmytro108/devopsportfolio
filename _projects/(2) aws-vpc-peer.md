@@ -2,7 +2,7 @@
 name: Peering a bunch of AWS VPCs
 tools: [Terraform, AWS]
 image: https://portfolio.fedunets.uk/assets/vpc-peer.png
-description: 
+description: The project demonstrates how to using Terraform dynamically create multiple VPCs and subnets, and establish peering connections between the VPCs in a each-to-each manner.
 ---
 ## Project description
 The project demonstrates how to create multiple VPCs and establish peering connections between them using Terraform. This is achieved by using Terraform's `for_each` loop and `count` feature. The peering connections are also created using the `for_each` loop, allowing for dynamic creation of peering connections between all VPCs.
