@@ -13,7 +13,7 @@ The project uses DigitalOcean's managed Kubernetes service, Helm for package man
 
 The project also includes a Helmfile, which allows for easy deployment and management of the application, including the ability to update the application with zero downtime.
 
-![K8s infrastructure](https://portfolio.fedunets.uk/assets/infra.png)
+![K8s infrastructure](https://portfolio.fedunets.uk/assets/cluster.png)
 
 ## Project highlights
 1. Using Helmfile hooks
