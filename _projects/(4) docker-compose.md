@@ -1,7 +1,7 @@
 ---
 name: Optimizing DevOps Workflow with GitLab
 tools: [Terraform, Docker Compose, GitLab, Minio, SonarQube]
-image: https://portfolio.fedunets.uk/assets/alm.png
+image: https://portfolio.fedunets.uk/assets/alm.jpeg
 description: The project focusing on automating and optimizing development and deployment processes. Key compentencies include containerization, CI/CD, and IaC. The project demonstrated skills in infrastructure automation through the use of Terraform and Terragrunt for resource management on GitLab.
 ---
 ## Project description
