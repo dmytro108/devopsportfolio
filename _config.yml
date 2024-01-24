@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : My Portfolio
 description         : Hello, I am Dmitry Fedunets and welcome to my portfolio of projects and skills. This portfolio is a collection of my DevOps projects. It showcases my skills and experience in various areas of DevOps, including automation, infrastructure as code, cloud computing, and more. Each project includes a brief description, key features, and links to the code repository.
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""  # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -10,7 +10,6 @@ open_new_tab        : true                             # Opens external URLs in 
 ### Plugins ###
 plugins:
   - jemoji
-
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
@@ -23,30 +22,18 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Dmitry Fedunets
   image             : https://portfolio.fedunets.uk/assets/dflogo.png
-#  behance           : dmytro108
-# dribbble          : your_username
   email             : dmitry.fedunets@gmail.com
-#  facebook          : your_username
+# facebook          : your_username
   github            : dmytro108
 # gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
   linkedin          : dmitryfedunets
-#  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
+# medium            : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
-# twitch            : your_username
-# twitter           : your_username
-# vimeo             : your_username
 # youtube           : your_channel_name
-# keybase           : your_username
-
 
 ### Posts ###
 permalink: /blog/:title
-
 
 ### Collections ###
 collections:
@@ -54,18 +41,15 @@ collections:
     output: true
     permalink: /projects/:name
 
-
 ### Disqus ###
 # disqus:
 #  shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
-
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: your-google-tracking-id
-
+    tracking_id: UA-300096883-1
 
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
@@ -75,7 +59,6 @@ analytics:
 #  color: "#007bff"
 #  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
 #  description: "Support me on Buy me a coffee!"
-
 
 ### Defaults for collections ###
 defaults:
@@ -89,7 +72,6 @@ defaults:
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
-
 
 ### Exclude from processing ###
 exclude:
