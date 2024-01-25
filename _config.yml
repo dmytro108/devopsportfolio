@@ -49,7 +49,7 @@ collections:
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: UA-300096883-1
+    tracking_id: G-Z603WKBCVS
 
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
