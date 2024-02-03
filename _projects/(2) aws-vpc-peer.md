@@ -1,7 +1,7 @@
 ---
 name: Peering a bunch of AWS VPCs
 tools: [Terraform, AWS]
-image: https://portfolio.fedunets.uk/assets/vpc-peer.png
+image: https://portfolio.fedunets.uk/assets/vpc_peer.png
 description: The project demonstrates how to using Terraform dynamically create multiple VPCs and subnets, and establish peering connections between the VPCs in a each-to-each manner.
 ---
 ## Project description
