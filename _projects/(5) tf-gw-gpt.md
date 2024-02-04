@@ -19,5 +19,5 @@ I have also used ChatGPT and Github Copilot to assist me in writing the Terrafor
 - Used SOPS to encrypt sensitive information in the Git repository
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/dmytro108/itsynd/tree/master/GoogleWS-admin" text="Learn More" %}
+{% include elements/button.html link="https://github.com/dmytro108/itsynd/tree/master/GoogleWS-admin/user-onboarding" text="Learn More" %}
 </p>
