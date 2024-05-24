@@ -1,7 +1,7 @@
 ---
 title: Earning My AWS Cloud Practitioner Certification - A Big Step Forward
 tags: [AWS, Certification, Achivement]
-image: https://portfolio.fedunets.uk/assets/aws-certified-cloud-practitioner.png
+image: https://portfolio.fedunets.uk/assets/aws-certified-cloud-practitioner138.png
 style: 
 color: 
 description: 
