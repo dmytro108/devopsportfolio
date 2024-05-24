@@ -1,9 +1,6 @@
 ---
 title: Earning My AWS Cloud Practitioner Certification - A Big Step Forward
 tags: [AWS, Certification, Achivement]
-style: 
-color: 
-description: 
 ---
 
 [![AWS Cloud Practitioner](/assets/aws-certified-cloud-practitioner138.png "Check the Creadly badge")](https://www.credly.com/badges/6ed74c90-6f97-4fdb-b5de-9bdfde7cce1f/public_url)
